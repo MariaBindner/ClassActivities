@@ -19,17 +19,3 @@ console.log(typeof myNumber);
 // What type of data needs to go in each variable?
 
 // console.log("Hello, my name is " + {add a name} + ", and I am learning " + {add a language} + ". I have been practicing for only " +  {add a number} + " weeks, so my status as a master is: " + {true or false} + ".");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
