@@ -27,3 +27,30 @@ Now, enter `code .` to open this project in VS Code, and look for a prompt to 'i
 In your repo, feel free to update this README and make any other initial changes to files, etc. Then go ahead and do your usual `git` steps -- add, commit, and push.
 
 **Note:** This is a template repository, no need to 'fork it.
+MD
+# Text of my Heading 1
+
+## This is a slightly smaller heading
+
+### This is an even slightly smaller heading
+
+Syntax for creating a list
+2 kinds of list: ordered lists and unordered list
+Ordered logically
+unordered - has indent or dash
+
+Ordered list; numbers at beginnning of line
+1. List item number 1
+2. List item number 2
+3. Number 3
+
+1. Hello
+2. Hello
+
+### Second Ordered List
+1. Hello
+2. Hello
+
+### Unordered list
+- whatever text
+- whatever text 2
